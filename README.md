@@ -1,6 +1,6 @@
 青空文庫の著者一覧を出す
 
-https://github.com/aozorabunko/aozorabunko の著者検索のhtmlから著者を抜き出します
+https://github.com/aozorabunko/aozorabunko の著者検索のhtmlから著者を抜き出します  
 utf-8じゃないページは飛ばしてるので結構抜けます
 
 ```
